@@ -1,0 +1,8 @@
+command:syst
+compile:syst
+doc:dist
+include:dist
+library:syst
+package:dist
+service:host
+src:dist

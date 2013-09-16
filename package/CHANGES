@@ -1,0 +1,20 @@
+20110927
+	ui: fixed s6-mount usage message
+	code: added s6-devd
+20110928
+	version: 0.11
+20111206
+	bug: need -D_GNU_SOURCE for struct ucred def in s6-devd.c
+	version: 0.12
+20121112
+	code: added -z fstab option to s6-mount
+20130207
+	build: switched to non-sp-supporting build system
+20130212
+	version: 1.0.0
+20130317
+	bug: s6-devd wasn't exported
+	  fix: add s6-devd to command.exported
+	doc: fixed the upgrade.html title
+20130320
+	version: 1.0.1
